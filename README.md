@@ -1,5 +1,1 @@
-# first
-asdf
-asdf
-asdf
-asdf
+print("Hello")
